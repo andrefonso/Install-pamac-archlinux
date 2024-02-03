@@ -21,4 +21,4 @@
 6) Instalar o Flatpak:</br>
   `sudo pacman -S flatpak`
 
-7) Após a instalação basta digitar **pamac** na barra de localização na interface gráfica para acessar a loja de aplicativos.
+7) Após a instalação basta digitar **pamac** na barra de procura de pastas e arquivos na interface gráfica para acessar a loja de aplicativos.
